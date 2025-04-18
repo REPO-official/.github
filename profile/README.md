@@ -2,7 +2,7 @@
 
 **R.E.P.O. 😀** is an Action, video game. Developed and published by semiwork. It was released on 26 Feb, 2025, for Windows.
 
-![image](https://github.com/user-attachments/assets/f5c38cc3-f242-4386-bf07-513bb41c12bb)
+![image](https://github.com/user-attachments/assets/324b1382-b88b-4978-9c13-4ddf7e328580)
 
 ---
 
